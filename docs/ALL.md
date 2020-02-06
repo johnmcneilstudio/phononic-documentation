@@ -1,0 +1,1133 @@
+# Phononic Documentation
+
+> This is the documentation of the Phononic Theme. This documentation covers all the required steps to get you up and running using the new theme and explains every step.
+
+
+
+# General Settings
+
+> In this section you can configure all the General options of the site that are applied site-wide.
+> All the General Settings of the site can be found under the admin menu `Appearance -> Customize`.
+> Inside this Section you can find all options separated into different sub-sections. Here are all the sub-sections: 
+
+
+1. Site Identity
+1. Menus
+1. Widgets
+1. Homepage Settings
+1. Script Tags
+1. Social Media Icons
+1. Additional CSS - Place to add your custom CSS in case you want to override the default CSS for part of the site.
+
+
+### Site Identity
+-------------------
+
+> In this section you can configure all the basic site identity options like Main Logo, Footer Logo, Site Title, etc. 
+
+
+Head to `Appearance -> Customize` and then choose the `Site Identity` Menu.
+
+
+Here you have tha ability to change the Site Title and Tagline, along with the site favicon.
+
+The Site favicon can be either a GIF, PNG OR SVG and needs to be at least 512x512 px in size for pixel based image formats like GIF or PNG. SVG doesn't need any specific pixels as it is vector based format.
+Of course you can use smaller resolution images like 128x128 or even 64x64 but this will make the logo more blurry and less high resolution for retina screens. 
+
+
+<iframe src="https://share.getcloudapp.com/QwuGp0GL?embed=true" width="440" height="360" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true"></iframe>
+
+
+### Menus
+-------------------
+
+Here you can set your different menus that are used across the site. Currently we use 5 different menus. 
+One is used in the header and it is named `Main Menu` and there are 4 others that are used at the 4 different columns in the footer of the site named `Footer Menu 1-4`
+
+<iframe src="https://share.getcloudapp.com/NQuvQrgd?embed=true" width="250" height="780" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true"></iframe>
+
+
+From this section you can create your different menus and you can also configure the menus from `Appearance -> Menus` as well.
+
+<iframe src="https://share.getcloudapp.com/llu4GYYL?embed=true" width="575" height="380" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+
+From both within the Customizer options or Menus, you can set the order of the menu items or even delete, add or edit a menu item.
+
+Here you can find some useful docs on how to manage your WordPress Menus:
+
+* https://en.support.wordpress.com/menus/
+* https://www.wpbeginner.com/beginners-guide/how-to-add-navigation-menu-in-wordpress-beginners-guide/ 
+
+
+ 
+### Widgets
+--------------------
+
+Widgets are sections across the site where you can add different Widgets to make the site more dynamic.
+Currently we use 3 Widgetized areas:
+
+* Footer Main Widget Area (Used to add all WordPress Menus or Widgets that show in the Footer section)
+* Sitemap Page Widget Area (Used to add the different widgets used in the Sitemap page)
+* Max Mega Menu Widgets (This is where Max Mega Menu stores widgets that you have added to sub menus using the mega menu builder. You can edit existing widgets here, but new widgets must be added through the Mega Menu interface (under Appearance > Menus).)
+
+<iframe src="https://share.getcloudapp.com/YEudnoRx?embed=true" width="575" height="380" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+
+Please note that you can add pretty much everything there, from static text, images, menu items and other custom widgets.
+
+Here you can find some useful docs on how to manage your WordPress Widgets:
+
+* https://wordpress.org/support/article/wordpress-widgets/
+* https://www.wpbeginner.com/glossary/widgets/
+* https://www.youtube.com/watch?v=zx258_5Vv9Y
+
+
+### Homepage Settings
+---------------------
+
+The only option inside this page is to set which page will be served as the Homepage. Currently it is set to the Homepage but if you decide to create a new homepage in the future and set this new page as your Homepage, just head to this section and choose the new page from the dropdown.
+
+<iframe src="https://share.getcloudapp.com/WnuEjJxj?embed=true" width="575" height="780" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+
+
+### Script Tags
+--------------------
+
+In this section you can configure any of the most popular script tags on your site and there is no need to do that with any 3rd party plugin.
+This section supports for now the current scripts:
+
+* Google Analytics Tracking Code
+* Google Tag Manager Tracking Code
+* Facebook Pixel Code
+
+You just have to add only the unique id generated by your service and NOT the whole script tag. So for example for Google Analytics you just have to add `UA-147648636-2` and nothing else.
+Everything else is done programmatically.
+
+<iframe src="https://share.getcloudapp.com/QwuGp04v?embed=true" width="300" height="580" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+
+
+Here you can find some useful docs on how to manage your script tags:
+
+* https://support.google.com/analytics/answer/7476135?hl=en
+* https://support.google.com/analytics/answer/1008080?hl=en
+* https://www.youtube.com/watch?v=dNtciz-7Ips
+* https://www.analyticsmania.com/post/google-tag-manager-id/
+* https://www.analyticsmania.com/post/google-tag-manager-id/
+* https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwiAlpCN9svmAhUO5HcKHe3XDY8YABAAGgJlZg&ohost=www.google.com&cid=CAESQeD2fihacPS1JJgx6N86QvbUEBrJCC94BRPnhlNtWRdqGXtJJudPxublugJZHwhDpKH39wEfUzM8HG0UcTLLJ4qb&sig=AOD64_1uYgwxS8jpHDvZpDl-mURx_X_W7w&q=&ved=2ahUKEwi1voeN9svmAhXLZ1AKHbtWBZYQ0Qx6BAgOEAE&adurl=
+* https://www.facebook.com/business/help/952192354843755
+
+
+
+### Social Media Icons
+----------------------
+
+
+In this section you can set your social media accounts. The only option needed for every social network is the link to your official page.
+The social media networks supported are the following ones:
+
+* Facebook
+* Vimeo
+* Twitter
+* Youtube
+* Linked in
+
+If you wish to add more social networks, this must be done programmatically as an additional request after hand-off of the project.
+Please note that there is a checkbox on this section named `Show Social Media Icons` that means, even if you have your social media network links saved, these will only be visible at the footer of the site if you have this option checked.
+
+ 
+<iframe src="https://share.getcloudapp.com/X6uDwNvm?embed=true" width="300" height="780" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+
+
+### Additional CSS
+--------------------
+
+
+This section is used in case you want to override some CSS of the site and you don't want to mess with theme files.
+Due to the reason that the CSS on the site is compiled into a minified version, it is always recommended if you are not a theme developer or WordPress expert in general, to not touch those files.
+
+<iframe src="https://share.getcloudapp.com/eDu9dBm6?embed=true" width="575" height="400" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+
+Here you can find some useful docs on how to add additional css to your site:
+
+* https://en.support.wordpress.com/custom-design/editing-css/
+* https://themeisle.com/blog/css-in-wordpress/
+* https://www.hostinger.com/tutorials/wordpress-custom-css
+
+
+### Uberflip Settings
+----------------------
+
+
+Use this section to set the titles & icons for uberflip cards (resources). Uberflip cards will look for a matching tag on the item and use the correlated title and icon. The first item in the list is used as the default if no matching tags are found.
+
+
+<iframe src="https://share.getcloudapp.com/04ugBNXx?embed=true" width="575" height="400" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+
+
+
+
+
+
+
+
+# Pages Settings
+
+> In this section you can configure all the static pages across the site
+
+
+To configure all the other pages of the site, you just have to navigate to `Pages -> All Pages` and just choose the page that you want to modify.
+
+If you want to create a new page just navigate to `Pages -> Add New`
+
+<iframe src="https://share.getcloudapp.com/6quLqPOZ?embed=true" width="575" height="340" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+
+The editing/publishing experience of the site uses the new WordPress Editor named `Gutenberg` which provides a better publishing experience over the old WordPress WYSIWYG Editor.
+
+<iframe src="https://share.getcloudapp.com/bLuG7wzW?embed=true" width="575" height="340" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+
+
+You can learn more about Gutenberg in the following links:  
+
+* https://wordpress.org/gutenberg/
+* https://www.codeinwp.com/blog/wordpress-gutenberg-guide/
+* https://kinsta.com/blog/gutenberg-wordpress-editor/
+
+
+
+
+# Gutenberg Blocks (custom)
+
+> In this section you can configure all the static pages across the site
+
+ * Alternating Blocks
+ * Application Cards
+ * Benefits
+ * Blockquote
+ * Carousel
+ * CTA Section
+ * Employees
+ * Equation with animations
+ * FAQ
+ * General Form
+ * Hero (BG Image)
+ * Hero (Technology)
+ * Homepage Hero
+ * How to buy
+ * Images
+ * Large Icon List
+ * Large Icon List with animations
+ * Possibilites
+ * Product List
+ * Resources
+ * Small Icon List
+ * Standard Cards
+ * Sub-menu
+ * Timeline
+ * Wide Cards
+ 
+
+ 
+ -------------------------------------
+ ### General Options for all Blocks
+ 
+ * Enable ease-in animation? (True/False) - It enables an animation on each element once it is visible in the viewport, when this option is enabled. 
+ 
+ 
+ -------------------------------------
+ ### Alternating Blocks
+ 
+ 
+ This is a Block that renders alternating blocks with image/text side-by-side.
+ 
+ __Options:__
+ 
+ * Width: Full or Narrow (Radio Button)
+ * Items: A repeater field that represents each individual block
+    * Image - The main image of the block
+    * Icon - The icon that can be added next to the title (optional)
+    * Title - The title of the block
+    * Text - The main text of the block
+    * CTA - CTA that is added below the main text
+ * CTA - CTA that is added below all blocks (optional)
+ 
+ <iframe src="https://share.getcloudapp.com/z8unerYL?embed=true" width="300" height="400" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+ 
+ 
+ __View:__
+ 
+ <iframe src="https://share.getcloudapp.com/9ZuNZQoG?embed=true" width="575" height="760" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+ 
+ 
+
+
+-----------------------------------
+ ### Application Cards
+ 
+ 
+ This is a Block that renders application cards on the page
+ 
+ __Options:__
+ 
+ * Title - The main title of the application cards section
+ * Columns - How many cards to show per row on larger screens (either 2 or 3)
+ * Items - A repeater field that represents an application card item
+     * Title - The title of the application card
+     * Text - The main text of the application card
+     * Icon - The icon of the application card
+     * CTA - The cta/link of the application card (optional)
+ 
+ 
+
+<iframe src="https://share.getcloudapp.com/wbukE8kJ?embed=true" width="300" height="1100" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+ 
+ 
+ __View:__
+  
+ <iframe src="https://share.getcloudapp.com/8LuwL9x1?embed=true" width="400" height="560" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+
+
+-----------------------------------
+ ### Benefits
+ 
+ 
+ This is a Block that renders benefits on the page
+ 
+ __Options:__
+ 
+ 
+ * Title - The main title of the benefits section
+ * Columns - How many items to show per row on larger screens (either 2 or 3)
+ * Items - A repeater field that represents an application card item
+    * Title - The title of the benefits item
+    * Text - The main text of the benefits item
+    * CTA - The cta/link of the benefits item (optional)
+ * Has CTA - If the benefits section has a CTA at the bottom of the section
+ * CTA Text - The text of the bottom CTA (shows when Has CTA is enabled)  
+ * CTA Link - The link of the bottom CTA (shows when Has CTA is enabled)
+ * Style - The general style of the benefits section. It can be either light or dark 
+ 
+ <iframe src="https://share.getcloudapp.com/RBuXQmZQ?embed=true" width="575" height="480" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+ 
+
+ 
+ __View:__
+  
+ <iframe src="https://share.getcloudapp.com/nOum0XLb?embed=true" width="575" height="400" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+
+
+-----------------------------------
+ ### Blockquote
+ 
+ 
+ This is a Block that renders a blockquote on the page
+ 
+ __Options:__
+ 
+ 
+ * Quote - The main text/quote
+ * Source - The source of the blockquote (optional) 
+ 
+ <iframe src="https://share.getcloudapp.com/eDu9dglL?embed=true" width="575" height="700" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+ 
+
+ 
+ __View:__
+  
+ <iframe src="https://share.getcloudapp.com/llu4Gkdq?embed=true" width="575" height="240" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+
+
+-----------------------------------
+ ### Carousel
+ 
+ 
+ This is a Block that renders a carousel on the page
+ 
+ __Options:__
+ 
+ * Title - The main title of the carousel section
+ * Items - This is a repeater field that represents each individual slide
+     * Title - The title of the carousel
+     * Text - The main text of the carousel
+     * Icon - The icon of the carousel
+     * CTA - The cta/link of the carousel (optional)
+ 
+<iframe src="https://share.getcloudapp.com/7KuyKAwb?embed=true" width="575" height="1260" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+ 
+ __View:__
+  
+  <iframe src="https://share.getcloudapp.com/yAuL50nz?embed=true" width="575" height="300" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+ 
+
+
+-----------------------------------
+ ### CTA Section
+ 
+ 
+ This is a Block that renders a CTA section
+ 
+ __Options:__
+ 
+ * Title - The title of the CTA section
+ * Style - The background style of the section. Can be either light (white background) or gradient (light blue/blue gradient) 
+ * CTA - The CTA of the CTA section. Based on the style option above, it can be either white or light blue.
+ 
+ <iframe src="https://share.getcloudapp.com/kpumj6X0?embed=true" width="575" height="840" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+ 
+
+ 
+ __View:__
+  
+ <iframe src="https://share.getcloudapp.com/llu4GkqO?embed=true" width="575" height="200" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+<iframe src="https://share.getcloudapp.com/GGuAGEZd?embed=true" width="575" height="200" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+
+-----------------------------------
+ ### Employees
+ 
+ 
+ This is a Block that renders employees on the page
+ 
+ __Options:__
+ 
+ * Title - The main title of the section
+ * Employees per row - It can be either 3 or 4 per row on bigger screen sizes. 
+ * Employees - This is a repeater field that acts as the individual employee
+    * Image - The image of the employee
+    * Name - The name of the employee
+    * Job title - The job title of the employee
+    * Show Bio - A toggle field that enables or disables the bio modal
+    * Bio - A WYSIWYG Editor where you can add the bio of the employee. This option shows if the above option is checked.
+
+ <iframe src="https://share.getcloudapp.com/8LuwLp7m?embed=true" width="575" height="400" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+ 
+ 
+ __View:__
+  
+  <iframe src="https://share.getcloudapp.com/geur9dlG?embed=true" width="575" height="360" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+ 
+
+
+-----------------------------------
+ ### Equation with Animations
+ 
+ 
+ This is a Block that renders application cards on the page
+ 
+ __Options:__
+ 
+* Title - The title of the equation block section
+* Subhead - The subheading of the equation block section
+* Items - Repeater field that represents individual equation items
+    * Select animation - Dropdown that you can choose from a set of pre-defined animations for each item (7 in total)
+    * Title - The title of each individual item
+* Select animation - This one is used to choose the animation for the equals sign item
+* Equals title - The title of the equals sign item
+
+<iframe src="https://share.getcloudapp.com/geur9PpO?embed=true" width="575" height="1200" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+ 
+ __View:__
+  
+ 
+ <iframe src="https://share.getcloudapp.com/ApuOpgmR?embed=true" width="575" height="340" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+
+
+-----------------------------------
+ ### FAQ
+ 
+ 
+ This is a Block that renders application cards on the page
+ 
+ __Options:__
+ 
+ * Title - The main title of the block section
+ * Width - The width of the FAQs container. It can be either wide or narrow
+ * Items - This is a repeater field that represents each individual FAQ item.
+    * Question - The question of the FAQ item
+    * Answer - The answer of the FAQ item
+   
+ <iframe src="https://share.getcloudapp.com/BluNlb8P?embed=true" width="575" height="1000" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+ 
+ 
+ __View:__
+  
+ <iframe src="https://share.getcloudapp.com/X6uDw7xO?embed=true" width="575" height="250" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+
+
+-----------------------------------
+ ### General Form
+ 
+ 
+ This is a Block that renders application cards on the page
+ 
+ __Options:__
+ 
+ * Title - The title of the block
+ * Subhead - The subhead of the block
+ * Form ID - The ID oof the form to show. The ID of the form can be retrieved from "Forms -> Forms" in the admin section.
+ * Form Style - The style of the form. It can be either dark or light
+ * Form width - The width of the form. It can be either wide or narrow
+ 
+<iframe src="https://share.getcloudapp.com/o0uQnYLO?embed=true" width="575" height="840" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+ 
+ __View:__
+  
+ <iframe src="https://share.getcloudapp.com/nOum0KQ7?embed=true" width="575" height="360" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+ <iframe src="https://share.getcloudapp.com/E0uE0XJ0?embed=true" width="575" height="360" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+ 
+ 
+-----------------------------------
+ ### Homepage Hero
+ 
+ 
+ This is a Block that renders homepage hero block on the page
+ 
+ __Options:__
+ 
+  * Headline - The headline of the Hero block
+  * Subhead - The subheading of the Hero block
+  * Background type - This option can be either Image or Video
+  * Background Image - The image that is used as a BG image of the Hero block and is enabled when the "background type" is set to image
+  * Background Video - This is a file uploader that is used to load the video on the homepage hero and is enabled when the "background type" is set to video
+  * Background Video Width - This is the background video width and is enabled when the "background type" is set to video
+  * Background Video Height - This is the background video height and is enabled when the "background type" is set to video
+  
+
+ <iframe src="https://share.getcloudapp.com/BluNlR66?embed=true" width="575" height="500" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+ 
+ __View:__
+  
+ <iframe src="https://share.getcloudapp.com/p9u5qLDo?embed=true" width="575" height="400" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+
+
+
+-----------------------------------
+ ### Hero (BG Image)
+ 
+ 
+ This is a Block that renders application cards on the page
+ 
+ __Options:__
+ 
+ * Headline - The headline of the Hero block
+ * Subhead - The subheading of the Hero block
+ * Image - The image that is used as a BG image of the Hero block
+ 
+<iframe src="https://share.getcloudapp.com/GGuAGEmB?embed=true" width="575" height="340" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+
+ 
+ __View:__
+ 
+<iframe src="https://share.getcloudapp.com/BluNlojG?embed=true" width="575" height="340" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+
+
+-----------------------------------
+ ### Hero (technology)
+ 
+ 
+ This is a Block that renders application cards on the page
+ 
+ __Options:__
+ 
+ * Media Type - It can be either Image or Video.
+ * Video File - This option is visible when the "Media Type" is set to video and provides a file uploaded option to add a self-hosted video on the site.
+ * Image - This option is visible when the "Media Type" is set to image and provides an image uploader field to add a BG image to the Hero 
+ 
+<iframe src="https://share.getcloudapp.com/nOum0Xjz?embed=true" width="575" height="340" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+ 
+ __View:__
+  
+ <iframe src="https://share.getcloudapp.com/Koueo1Oy?embed=true" width="575" height="360" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+
+
+-----------------------------------
+ ### How to Buy
+ 
+ 
+ This is a Block that renders application cards on the page
+ 
+ __Options:__
+ 
+ * Style - The style of the block. It can be either light or dark
+ * CTA Button Text - The button text of the CTA 
+ * Title - The title of the block
+ * Subhead - The subheading of the block
+ * Items per row - The number of items per row.
+ * Item type - This option can be either distributor or option
+ * If "distributor" is enabled then the below field are visible
+    * Logo - The logo of each individual item
+    * Title - The title of each individual item
+    * Website - The website of each individual item
+ * If "option" is enabled then the below field are visible
+    * Title - The title of each individual item
+    * Description - The description of each individual item
+    * Link - The link of each individual item
+ * Show form - A toggle field that shows a form inside the block. If this option is enabled then the field below are visible
+    * Form Title - The title of the form
+    * Form ID - The ID of the form. You can retrieve the ID of the form that you want to use from "Forms -> Forms" in the admin section.
+ * Text above CTA - The text above the CTA
+ * CTA - The CTA shown at the bottom of the block   
+ 
+<iframe src="https://share.getcloudapp.com/xQu01xy8?embed=true" width="575" height="840" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+ 
+ __View:__
+  
+ 
+ <iframe src="https://share.getcloudapp.com/DOuvOkR0?embed=true" width="575" height="280" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+
+
+-----------------------------------
+ ### Images
+ 
+ 
+ This is a Block that renders a set of images side-by-side 
+ 
+ __Options:__
+ 
+ * Items - The repeater field that represents each individual image
+    * Image - The image of each item
+ 
+ 
+ <iframe src="https://share.getcloudapp.com/rRuLZ5XR?embed=true" width="575" height="820" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+ 
+
+
+ __View:__
+  
+ 
+<iframe src="https://share.getcloudapp.com/YEudnD8X?embed=true" width="575" height="240" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+
+
+-----------------------------------
+ ### Large Icon List
+ 
+ 
+ This is a Block that renders large icon list on the page
+ 
+ __Options:__
+ 
+ 
+ * Items - This field is a repeater that represents each individual item
+      * Icon - The icon for the item
+      * Title - The title of the item
+      * Text - The text of the item
+      * CTA - The CTA of the item
+  * Style - The style of the block. It can be either black, light or dark
+  * Text Size - The size of the list items text. It can be either large or small
+  * CTA - The CTA of the block
+ 
+ 
+ <iframe src="https://share.getcloudapp.com/L1uk1D71?embed=true" width="575" height="1180" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+
+ 
+
+
+-----------------------------------
+ ### Large Icon List with animations
+ 
+ 
+ This is a Block that renders large icon list with animations on the page
+ 
+ __Options:__
+ 
+ * Items - This field is a repeater that represents each individual item
+     * Select animation - Select between the pre-defined animations (7 in total)
+     * Title - The title of the item
+     * Text - The text of the item
+     * CTA - The CTA of the item
+ * Style - The style of the block. It can be either black, light or dark
+ * Text Size - The size of the list items text. It can be either large or small
+ * CTA - The CTA of the block
+
+ <iframe src="https://share.getcloudapp.com/Jru7rpXK?embed=true" width="575" height="740" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+ 
+ __View:__
+  
+ <iframe src="https://share.getcloudapp.com/bLuG7lm6?embed=true" width="575" height="580" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+
+
+-----------------------------------
+ ### Possibilities
+ 
+ 
+ This is a Block that renders possibili cards on the page
+ 
+ __Options:__
+ 
+ * Title - The title of the block section
+ * Title Color - The color of the main title. It can be either dark or light
+ * Items - Repeater field that represents each individual possibilities item
+    * Title - The title of the item
+    * Text - The text of the item
+ 
+ 
+ <iframe src="https://share.getcloudapp.com/o0uQnJ8Q?embed=true" width="575" height="1000" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+ 
+ __View:__
+  
+  <iframe src="https://share.getcloudapp.com/o0uQnJ6z?embed=true" width="575" height="240" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+  
+
+-----------------------------------
+ ### Product List
+ 
+ 
+ This is a Block that renders application cards on the page
+ 
+ __Options:__
+ 
+ * Title - The title of the Product List
+ * Items - This is a repeater field that represents each individual slide
+    * Title - The title of the product list
+    * Text - The main text of the product list
+    * Image - The image of the product list
+    * CTA - The cta/link of the product list (optional)
+ 
+
+
+<iframe src="https://share.getcloudapp.com/7KuyKqw7?embed=true" width="575" height="640" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+ 
+ __View:__
+  
+<iframe src="https://share.getcloudapp.com/BluNld8Q?embed=true" width="575" height="360" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+
+⚠️ Please note that the numbering comes programmatically.
+
+-----------------------------------
+ ### Resources
+ 
+ 
+ This is a Block that renders application cards on the page
+ 
+ __Options:__
+ 
+ * Title - The title of the Reources section
+ * Type - The type of the resources. It can be either static (manual)  or Uberflip (dynamic)
+ * Stream ID - This is the field that accepts the Uberflip API Key and connects the current resources with Uberflip. It shows only when the "type" is set to "Uberflip"
+ * Number of items to show. This field is visible only when the "type" is set to "Uberflip" and limits the results shown on this block
+ * Items - This is a repeater field that represents each individual resource card
+    * Icon - The icon of the resource card
+    * Title - The title of the resource card
+    * Text - The main text of the resource card
+    * CTA - The cta/link of the resource card (optional)
+ 
+ 
+
+ <iframe src="https://share.getcloudapp.com/12uD2LyE?embed=true" width="575" height="340" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+ 
+ 
+ __View:__
+  
+ 
+ <iframe src="https://share.getcloudapp.com/nOum0XEK?embed=true" width="575" height="340" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+
+
+
+-----------------------------------
+ ### Small Icon List
+ 
+ 
+ This is a Block that renders application cards on the page
+ 
+ __Options:__
+ 
+ * Title - The main title of the block section
+ * Columns - The number of items shown per row on bigger screen sizes. It can be either 2 or 3
+ * Style - The style of the block (it can be either light or dark)
+ * Items - This is a repeater field that represents each individual list item
+     * Icon - The icon of the list item
+     * Title - The title of the list item
+     * Text - The main text of the list item
+     * CTA - The cta/link of the list item (optional)
+ 
+ <iframe src="https://share.getcloudapp.com/Jru7rOA2?embed=true" width="575" height="780" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+ 
+ __View:__
+  
+<iframe src="https://share.getcloudapp.com/2NurNzwL?embed=true" width="575" height="340" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+
+
+-----------------------------------
+ ### Standard Cards
+ 
+ 
+ This is a Block that renders application cards on the page
+ 
+ __Options:__
+ 
+ * Title - The main title of the standards cards section
+ * Columns - The item of the cards per row on bigger screens. It can be either 2 or 3.
+ * Items: A repeater field that represents each card
+     * Image - The main image of the block
+     * Title - The title of the block
+     * Text - The main text of the block
+     * CTA - CTA that is added below the main text
+     * Width - The width of the card. It can be either ful or half
+     * Orientation - The orientation of the content of the card. It can be either vertical or horizontal
+     * Type - The type of the card. It can be either null (empty),  Logo or Text.
+     * Custom Title Color - This is a toggle field that can be either true or false.
+     * Color - This option is enabled once the "Custom Title Color" is set to true and you have the ability to change the title color to one of the three pre-defined options (Royal/Orange/Marigold) 
+     * Icon text - The icon that goes side by side with the text. This option is enabled once the "Type" option is set to Text
+     * Logo - The logo of the card. This option is enabled once the "Type" option is set to Logo
+ 
+<iframe src="https://share.getcloudapp.com/eDu9dXQe?embed=true" width="575" height="540" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+
+
+ __View:__
+  
+<iframe src="https://share.getcloudapp.com/9ZuNZmym?embed=true" width="575" height="320" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+
+
+-----------------------------------
+ ### Sub-menu 
+ 
+ This is a Block that renders sub-menu on the page
+ 
+ __Options:__
+ 
+ * Items - A repeater field that represents each individual item
+    * Page - Link field that you can choose the page that you want to connect to each individual sub-menu link
+
+ <iframe src="https://share.getcloudapp.com/o0uQnXKj?embed=true" width="575" height="300" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+ 
+ 
+ __View:__
+  
+<iframe src="https://share.getcloudapp.com/xQu01xR4?embed=true" width="575" height="350" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+
+
+-----------------------------------
+ ### Timeline
+ 
+ 
+ This is a Block that renders application cards on the page
+ 
+ __Options:__
+ 
+ * Title - The title of the timeline section
+ * Items - Repeater field that represents each individual timeline item
+    * Title - The title of the timeline item
+    * Subtitle - The subtitle of the timeline item
+
+<iframe src="https://share.getcloudapp.com/BluNlz0E?embed=true" width="575" height="1240" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+ 
+ __View:__
+  
+<iframe src="https://share.getcloudapp.com/bLuG7ZpQ?embed=true" width="575" height="360" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+
+-----------------------------------
+ ### Wide Cards
+ 
+ 
+ This is a Block that renders wide cards on the page
+ 
+ __Options:__
+ 
+ * Title - The title of the possibilities section
+ * Subhead - The subheading of the possibilities section
+ * Items - A repeater field that represents an individual item
+      * Title - The title of the benefits item
+      * Text - The main text of the benefits item
+      * CTA - The cta/link of the benefits item (optional)
+      * Media Type - It can be either Image or Video
+      * Image - This is the image of the item. This option is visible when the "Media Type" is set to "Image"
+      * Video file (media library) - This is the video of the item. This option is visible when the "Media Type" is set to "Video". This option is used when we want to use a self-hosted video from our platform.
+      * Video URL (link) - This is the video of the item. This option is visible when the "Media Type" is set to "Video". This option is used when we want to use a video from an external source.
+      * Poster Image - This is the poster image that is used when a video is not available for a specific device.
+      * Media Position - This option controls the alignment of the media. It can be either left or right.
+      * Has CTA - If the benefits section has a CTA at the bottom of the section
+      * CTA Text - The text of the bottom CTA (shows when Has CTA is enabled)  
+      * CTA Link - The link of the bottom CTA (shows when Has CTA is enabled)
+  
+ <iframe src="https://share.getcloudapp.com/P8uYA7jB?embed=true" width="575" height="560" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+  
+ 
+ __View:__
+  
+
+<iframe src="https://share.getcloudapp.com/kpumjWJP?embed=true" width="575" height="360" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+
+
+
+# Plugins
+
+> This is the section that describes all the plugins (up-to-date) that are installed on your site 
+
+List of Active (A) or Inactive (I) Plugins:
+
+
+* ACF Content Analysis for Yoast SEO (A)
+* Advanced Custom Fields PRO (A)
+* Akismet Anti-Spam (I)
+* Duplicate Post (A)
+* GDPR Cookie Consent (A)
+* Gravity Forms (A)
+* Gravity Forms Webhooks Add-On (A)
+* Max Mega Menu (A)
+* Safe SVG (A)
+* Timber (A)
+* WP All Import Pro (A)
+* WP Control (A)
+* WP Migrate DB (A)
+* WP Sitemap Page (I)
+* Yoast SEO Premium (A)
+
+------------------------------------
+### ACF Content Analysis for Yoast SEO
+
+This plugin is used to analyse ll Advanced Custom Fields 4 and 5 content including Flexible Content and Repeater.
+Yoast SEO basic doesn't provide this option out of the box and this plugins extends the basic functionality of this SEO plugin.
+
+
+
+
+
+------------------------------------
+### Advanced Custom Fields PRO
+
+This plugin is used to provide the framework to use in order to create all the custom fields that we use across the site. Most of the custom fields are used in our custom Gutenberg Blocks. More on that one in the Gutenberg Block section.
+
+Here you can see all the available Field Groups (custom fields) used across the site
+
+
+<iframe src="https://share.getcloudapp.com/rRuLZkn9?embed=true" width="575" height="340" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+
+------------------------------------
+### Akismet Anti-Spam
+
+Protects your bog from spam. Currently inactive but you can activate it and start the setup process.
+
+Here are some useful docs on how to install and use Akismet:
+
+https://www.a2hosting.com/kb/installable-applications/optimization-and-configuration/wordpress2/wordpress-plugins/akismet
+https://www.hostinger.com/tutorials/wordpress/how-to-setup-wordpress-anti-spam-protection
+https://docs.akismet.com/
+
+
+
+------------------------------------
+### Duplicate Post
+
+With this plugin, you can clone posts or pages.
+ 
+ <iframe src="https://share.getcloudapp.com/04ug4JNG?embed=true" width="575" height="340" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+ 
+It can be extended to clone other Custom Post types as well or for specific User Roles only
+
+<iframe src="https://share.getcloudapp.com/Z4uw06qB?embed=true" width="575" height="340" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+
+
+------------------------------------
+### GDPR Cookie Consent
+
+A simple way to show your website complies with the EU Cookie Law / GDPR.
+
+<iframe src="https://share.getcloudapp.com/llu4G9kd?embed=true" width="575" height="400" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+
+Here you can find some useful docs on how to setup GDPR Cookie Consent Plugin:
+
+https://cookielawinfo.com/user-guide
+https://cookielawinfo.com/faq
+
+------------------------------------
+### Gravity Forms
+
+Easily create web forms and manage form entries within the WordPress admin.
+
+<iframe src="https://share.getcloudapp.com/p9u5q8Qx?embed=true" width="575" height="340" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+
+
+Here is an extensive documentation of the official plugin author:
+
+https://docs.gravityforms.com/
+
+------------------------------------
+### Gravity Forms Webhooks Add-On
+
+Integrates Gravity Forms with third party services using custom webhooks.
+
+Here is a documentation on Gravity Forms Web Hooks:
+
+https://docs.gravityforms.com/triggering-webhooks-form-submissions/
+
+
+------------------------------------
+### Max Mega Menu
+
+An easy to use mega menu plugin. Due to the nature of WordPress Menus, we can't implement such a complex functionality and layout for a menu like the one used in the header section.
+This is where Max Mega Menu is used for.
+
+
+<iframe src="https://share.getcloudapp.com/P8uYAkOJ?embed=true" width="575" height="340" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+
+Here you can find an extensive documentation for Max Mega Menu:
+
+https://www.megamenu.com/documentation/
+
+
+
+------------------------------------
+### Safe SVG
+
+Allows SVG uploads into WordPress and sanitizes the SVG before saving it. This plugin is used to allow SVG uploads for hosting providers that prevent it by default.
+We need this additional functionality for images like our logo. This functionality works out-of-the-box when activated and no further action is needed.
+
+
+------------------------------------
+### Timber
+
+The WordPress Timber Library allows you to write themes using the power of Twig templates. This is the core framework that we use to built the new theme. No further action is needed in order for this plugin to work.
+
+⚠️ Please note that this plugin should be always activate in order for the new theme to work
+⚠️ Please note that it may not be safe to update this plugin to the latest version of 1.14.0 directly on production. This new version of Timber introduces some major new features which might have unknown effects on your site. So it is always recommended to update this plugin on a staging environment.
+
+Some useful docs from their official site:
+
+https://timber.github.io/docs/
+https://timber.github.io/docs/getting-started/setup/
+
+------------------------------------
+### WP All Import Pro
+
+This plugin is being used to import Uberflip content as posts. This is to allow this content to show up in search results on wordpress. The posts themselves don't have any template associated with them - if you view them, they redirect to the original page in uberflip. The importing happens automatically using cron jobs.
+
+
+
+------------------------------------
+### WP Crontrol
+
+WP Crontrol lets you view and control what's happening in the WP-Cron system. It is always good to control the WP-Cron system through this plugin. This will help you increase the site performance.
+
+<iframe src="https://share.getcloudapp.com/6quLq8Ox?embed=true" width="575" height="340" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+
+------------------------------------
+### WP Sitemap Page
+
+Add a sitemap on any page/post using the simple shortcode [wp_sitemap_page]
+
+This plugin is not active or used anymore in favor of our custom sitemap solution. You can either keep it or delete it.
+ 
+
+
+------------------------------------
+### Yoast SEO Premium
+
+The first true all-in-one SEO solution for WordPress, including on-page content analysis, XML sitemaps and much more. This plugin handles all the SEO for your site.
+
+<iframe src="https://share.getcloudapp.com/rRuLZG9E?embed=true" width="575" height="340" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+
+Here you can find an extensive documentation on Yoast SEO:
+
+https://yoast.com/wordpress-seo/
+
+
+
+# Timber Starter Theme
+
+The "_s" for Timber: a dead-simple theme that you can build from. The primary purpose of this theme is to provide a file structure rather than a framework for markup or styles. Configure your Sass, scripts, and task runners however you would like!
+
+[![Build Status](https://travis-ci.org/timber/starter-theme.svg)](https://travis-ci.org/timber/starter-theme)
+
+## Installing the Theme
+
+Install this theme as you would any other, and be sure the Timber plugin is activated. But hey, let's break it down into some bullets:
+
+1. Make sure you have installed the plugin for the [Timber Library](https://wordpress.org/plugins/timber-library/) (and Advanced Custom Fields - they [play quite nicely](https://timber.github.io/docs/guides/acf-cookbook/#nav) together). 
+2. Download the zip for this theme (or clone it) and move it to `wp-content/themes` in your WordPress installation. 
+3. Rename the folder to something that makes sense for your website (generally no spaces and all lowercase). You could keep the name `timber-starter-theme` but the point of a starter theme is to make it your own!
+4. Activate the theme in Appearance >  Themes.
+5. Do your thing! And read [the docs](https://github.com/jarednova/timber/wiki).
+
+## What's here?
+
+`static/` is where you can keep your static front-end scripts, styles, or images. In other words, your Sass files, JS files, fonts, and SVGs would live here.
+
+`templates/` contains all of your Twig templates. These pretty much correspond 1 to 1 with the PHP files that respond to the WordPress template hierarchy. At the end of each PHP template, you'll notice a `Timber::render()` function whose first parameter is the Twig file where that data (or `$context`) will be used. Just an FYI.
+
+`bin/` and `tests/` ... basically don't worry about (or remove) these unless you know what they are and want to.
+
+## Other Resources
+
+The [main Timber Wiki](https://github.com/jarednova/timber/wiki) is super great, so reference those often. Also, check out these articles and projects for more info:
+
+* [This branch](https://github.com/laras126/timber-starter-theme/tree/tackle-box) of the starter theme has some more example code with ACF and a slightly different set up.
+* [Twig for Timber Cheatsheet](http://notlaura.com/the-twig-for-timber-cheatsheet/)
+* [Timber and Twig Reignited My Love for WordPress](https://css-tricks.com/timber-and-twig-reignited-my-love-for-wordpress/) on CSS-Tricks
+* [A real live Timber theme](https://github.com/laras126/yuling-theme).
+* [Timber Video Tutorials](http://timber.github.io/timber/#video-tutorials) and [an incomplete set of screencasts](https://www.youtube.com/playlist?list=PLuIlodXmVQ6pkqWyR6mtQ5gQZ6BrnuFx-) for building a Timber theme from scratch.
+
+
+
+
+# CSS Methodologies
+
+CSS Methodologies are a set of architectural paradigms that help avoid poor code and embraces clean and meaningful code for smaller and bigger projects
+
+<br/>
+<br/>
+
+## ▽ ITCSS Architecture
+
+A simple ITCSS folder structure sample.
+
+### What is ITCSS?
+
+> ITCSS stands for _Inverted Triangle CSS_ and it helps you to organize your project CSS files in such way that you can better **deal with** (not always easy-to-deal with) CSS specifics like **global namespace, cascade and selectors specificity**.
+>
+> — Lubos Kmetko, in [ITCSS: Scalable and Maintainable CSS Architecture](https://www.xfive.co/blog/itcss-scalable-maintainable-css-architecture/)
+
+It was created by [Harry Roberts](https://csswizardry.com/) and it works very well with methodologies like [BEM](https://en.bem.info/methodology/css/), [SMACSS](https://smacss.com/) or [OOCSS](https://github.com/stubbornella/oocss/wiki).
+
+Check out [INUITCSS](https://github.com/inuitcss/inuitcss) to see the best example of ITCSS.
+
+&nbsp;
+
+![ITCSS Layers](https://i.imgur.com/mRQpvSj.png)
+
+&nbsp;
+
+### Those layers are as follows:
+
+* **Settings** – used with preprocessors and contain font, colors definitions, etc.
+* **Tools** – globally used mixins and functions. It’s important not to output any CSS in the first 2 layers.
+* **Generic** – reset and/or normalize styles, box-sizing definition, etc. This is the first layer which generates actual CSS.
+* **Elements** – styling for bare HTML elements (like H1, A, etc.). These come with default styling from the browser so we can redefine them here.
+* **Objects** – class-based selectors which define undecorated design patterns, for example media object known from OOCSS
+* **Components** – specific UI components. This is where majority of our work takes place and our UI components are often composed of Objects and Components
+* **Utilities** – utilities and helper classes with ability to override anything which goes before in the triangle, eg. hide helper class
+
+&nbsp;
+
+The triangle also shows how styles represented by selectors are ordered in the resulting CSS: from generic styles to explicit ones, from low-specificity selectors to more specific ones (but still not too specific, IDs are not allowed) and from far reaching to localized ones.
+
+&nbsp;
+
+![ITCSS Key Metrics](https://i.imgur.com/eU48aiq.png)
+
+&nbsp;
+
+### Learn more about ITCSS
+
+* [📄 Manage large CSS projects with ITCSS](https://www.creativebloq.com/web-design/manage-large-css-projects-itcss-101517528), Harry Roberts - Creative Bloq
+* [📺 Managing CSS Projects with ITCSS](https://youtu.be/1OKZOV-iLj4), Harry Roberts - YouTube
+* [📄 INUITCSS Project](https://github.com/inuitcss/inuitcss), Harry Roberts - GitHub
+
+
+<br/>
+<br/>
+
+## BEM Naming Methodology
+BEM - Block Element Modifier is a methodology that helps you to create reusable components and code sharing in front-end development.
+
+### What is BEM?
+
+BEM is a highly useful, powerful, and simple naming convention that makes your front-end code easier to read and understand, easier to work with, easier to scale, more robust and explicit, and a lot more strict.
+<br />
+<br />
+The BEM approach ensures that everyone who participates in the development of a website works with a single codebase and speaks the same language. Using BEM’s proper naming convention will better prepare you for design changes made to your website.
+<br />
+
+
+### Learn more about BEM
+
+* [📄 BEM Methodology](http://getbem.com/), BEM Official site
+* [📄 BEM Methodology documentation](https://en.bem.info/methodology/), BEM Methodology documentation
+* [📄 BEM 101 examples](https://css-tricks.com/bem-101/), Robin Rendle, CSS Tricks
+* [📄 BEM Cheatsheet](https://gist.github.com/jin0x/08d5093f0910f74e46e23cd0194417ba), John Leskas, Github
